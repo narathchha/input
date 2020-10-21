@@ -1,0 +1,15 @@
+
+body{
+    background: gray;
+    display: flelx;
+    
+    
+}
+p{
+    color:hsl(315, 29%, 95%);
+    text-decoration: underline;
+}
+form{
+    justify-content: center;
+    align-items: center;
+}
